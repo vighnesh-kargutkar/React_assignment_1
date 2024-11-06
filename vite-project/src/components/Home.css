@@ -1,0 +1,16 @@
+#Button-List{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
